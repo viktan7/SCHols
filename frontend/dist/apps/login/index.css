@@ -1,0 +1,9 @@
+/** Your app style. */
+#loginblock{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    border: 1px cornflowerblue dashed;
+}
